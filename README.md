@@ -9,11 +9,10 @@ This is my learning journey with GitHub and coding. I'm excited to explore and b
 ## What I'm Learning
 - How to use GitHub
 - Version control basics
-- Collaborating with others
+- not collaborating with others cuz f that am i right?
 
 ## Technologies I'm Using
-- (Add any programming languages or tools here)
-- Example: Python, JavaScript, HTML/CSS
+- yet to figure out but im most accusted to java so yea 
 
 ## Current Status
 🚀 Just getting started!
